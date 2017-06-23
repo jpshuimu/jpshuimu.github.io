@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Invited Seminars &amp; Presentations In Conferences  on Leo YANG</title>
+    <link>https://jpshuimu.github.io/talk/</link>
+    <description>Recent content in Invited Seminars &amp; Presentations In Conferences  on Leo YANG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Leo YANG</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The 2nd China Public Finance Forum</title>
+      <link>https://jpshuimu.github.io/talk/cpff2016/</link>
+      <pubDate>Sat, 10 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jpshuimu.github.io/talk/cpff2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Annual Conference of Chinese Association of Quantitative Economics</title>
+      <link>https://jpshuimu.github.io/talk/caqe2016/</link>
+      <pubDate>Fri, 14 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jpshuimu.github.io/talk/caqe2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>16th ZEW Summer Workshop for Young Economists</title>
+      <link>https://jpshuimu.github.io/talk/zew2014/</link>
+      <pubDate>Mon, 30 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://jpshuimu.github.io/talk/zew2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>China Meeting of Econometric Society (CMES 2014)</title>
+      <link>https://jpshuimu.github.io/talk/cmes2014/</link>
+      <pubDate>Wed, 25 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://jpshuimu.github.io/talk/cmes2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

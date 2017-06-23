@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://jpshuimu.github.io/zh/categories/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="https://jpshuimu.github.io/categories/" hreflang="en"/>
+    
+      <loc>https://jpshuimu.github.io/zh/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://jpshuimu.github.io/zh/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="https://jpshuimu.github.io/" hreflang="en"/>
+    
+      <loc>https://jpshuimu.github.io/zh/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://jpshuimu.github.io/zh/publication_types/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="https://jpshuimu.github.io/publication_types/" hreflang="en"/>
+    
+      <loc>https://jpshuimu.github.io/zh/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://jpshuimu.github.io/zh/tags/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="https://jpshuimu.github.io/tags/" hreflang="en"/>
+    
+      <loc>https://jpshuimu.github.io/zh/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+</urlset>
