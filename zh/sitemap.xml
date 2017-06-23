@@ -5,10 +5,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://www.leoyang.org/zh/categories/" hreflang="zh"/>
-      <xhtml:link rel="alternate" href="https://www.leoyang.org/categories/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="http://www.leoyang.org/zh/categories/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="http://www.leoyang.org/categories/" hreflang="en"/>
     
-      <loc>https://www.leoyang.org/zh/categories/</loc>
+      <loc>http://www.leoyang.org/zh/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -17,10 +17,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://www.leoyang.org/zh/" hreflang="zh"/>
-      <xhtml:link rel="alternate" href="https://www.leoyang.org/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="http://www.leoyang.org/zh/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="http://www.leoyang.org/" hreflang="en"/>
     
-      <loc>https://www.leoyang.org/zh/</loc>
+      <loc>http://www.leoyang.org/zh/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -30,10 +30,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://www.leoyang.org/zh/publication_types/" hreflang="zh"/>
-      <xhtml:link rel="alternate" href="https://www.leoyang.org/publication_types/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="http://www.leoyang.org/zh/publication_types/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="http://www.leoyang.org/publication_types/" hreflang="en"/>
     
-      <loc>https://www.leoyang.org/zh/publication_types/</loc>
+      <loc>http://www.leoyang.org/zh/publication_types/</loc>
       <priority>0</priority>
     </url>
     
@@ -42,10 +42,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://www.leoyang.org/zh/tags/" hreflang="zh"/>
-      <xhtml:link rel="alternate" href="https://www.leoyang.org/tags/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="http://www.leoyang.org/zh/tags/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="http://www.leoyang.org/tags/" hreflang="en"/>
     
-      <loc>https://www.leoyang.org/zh/tags/</loc>
+      <loc>http://www.leoyang.org/zh/tags/</loc>
       <priority>0</priority>
     </url>
     

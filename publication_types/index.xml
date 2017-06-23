@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types on Leo YANG</title>
-    <link>https://www.leoyang.org/publication_types/</link>
+    <link>http://www.leoyang.org/publication_types/</link>
     <description>Recent content in Publication_types on Leo YANG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,19 +12,19 @@
     
     <item>
       <title>2</title>
-      <link>https://www.leoyang.org/publication_types/2/</link>
+      <link>http://www.leoyang.org/publication_types/2/</link>
       <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.leoyang.org/publication_types/2/</guid>
+      <guid>http://www.leoyang.org/publication_types/2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>3</title>
-      <link>https://www.leoyang.org/publication_types/3/</link>
+      <link>http://www.leoyang.org/publication_types/3/</link>
       <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.leoyang.org/publication_types/3/</guid>
+      <guid>http://www.leoyang.org/publication_types/3/</guid>
       <description></description>
     </item>
     
