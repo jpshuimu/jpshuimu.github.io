@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="generator" content="pandoc">
   <meta name="author" content="Leo Yang" />
-  <title>Connection or Performance? The MLE Models Analysis</title>
+  <title>Connection V.S. Performance, Which Should I Work On This Year?</title>
     <style type="text/css">code{white-space: pre;}</style>
     <link rel="stylesheet" href="drposter_files//drposter.css" />
     <link rel="stylesheet" href="custom.css"/>
@@ -13,57 +13,52 @@
 <div class="slides ">
 
 <header>
-    <h1 class="title">Connection or Performance? The MLE Models Analysis</h1>
+    <h1 class="title">Connection V.S. Performance, Which Should I Work On This Year?</h1>
     <h2 class="author">Leo Yang</h2>
 </header>
 
 <div id="section" class="section level1 col-1">
 <h1></h1>
-<div id="introduction" class="section level2">
-<h2>Introduction</h2>
-<p>This is an R Markdown poster based on ‘reveal.js’ presentations. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a href="http://rmarkdown.rstudio.com" class="uri">http://rmarkdown.rstudio.com</a>.</p>
-<p>When you click the <strong>Knit</strong> button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. Customize the poster.css file (or whatever it is renamed) to define the style and layout of the poster. See <a href="https://github.com/bbucior/drposter/blob/master/inst/example/poster.Rmd" class="uri">https://github.com/bbucior/drposter/blob/master/inst/example/poster.Rmd</a> for an example.</p>
-</div>
-<div id="slide-with-bullets" class="section level2">
-<h2>Slide with Bullets</h2>
-<ul>
-<li>Bullet 1</li>
-<li>Bullet 2</li>
-<li>Bullet 3</li>
-</ul>
+<div id="abstract" class="section level2">
+<h2>Abstract</h2>
+<p>We investigated how Chinese provincial leaders’ chances of promotion depend on their performance in office and connections with top politicians. Different with former studies, we focused on a new aspect, the time-related strategy. In the real world, candidates were evaluated with yearly routine and facing the different possibilities of turnover in different phases. Using Survival model and Competing Risk model, We developed a time table of turnover possibility based on the resume of 132 provincial party secretaries during 1993 - 2009 and found the complements relationship between connection and performance in the candidate evaluation. Our research offered a deeper understanding of the micromechanism of political selection and confirmed the result of Jia et al (2015).</p>
 </div>
 </div>
 <div id="section-1" class="section level1 col-2">
 <h1></h1>
-<div id="marginal-effect-of-connection-and-performance" class="section level2">
-<h2>Marginal Effect of Connection and Performance</h2>
-<p><img src="poster_files/figure-html/interflex-1.png" width="672" /></p>
+<div id="measurement" class="section level2">
+<h2>Measurement</h2>
+<ul>
+<li><strong>Turnover</strong>: <span style="color:red">Promote</span>, <span style="color:green">Retire</span>, <span style="color:blue">Lateral Transfer</span></li>
+<li><strong>Political Connection</strong>: Whether Candidates worked with Supervisor before</li>
+<li><strong>Economic Performance</strong>: Average GDP growth rate</li>
+<li><strong>Years in Office</strong>: The number of years in office</li>
+</ul>
+<!-- ## Marginal Effect of Connection and Performance -->
+<!-- ## Competing Risk Analysis - Connection -->
 </div>
-<div id="competing-risk-analysis---connection" class="section level2">
-<h2>Competing Risk Analysis - Connection</h2>
-<p><img src="poster_files/figure-html/competing_risk_connection-1.png" width="672" /></p>
+<div id="was-connected-candidate-in-better-place" class="section level2">
+<h2>Was Connected Candidate in Better Place?</h2>
+<p><img src="poster_files/figure-html/appointment_check-1.png" width="672" /></p>
 </div>
 </div>
 <div id="section-2" class="section level1 col-2">
 <h1></h1>
-<div id="cox-ph-survival-model" class="section level2">
-<h2>COX-PH Survival Model</h2>
-<p><img src="poster_files/figure-html/survival_cox_ph-1.png" width="672" /></p>
+<div id="conclusions" class="section level2">
+<h2>Conclusions</h2>
+<p>Connections and Performance are complements in the Chinese political selection process. In the extreme case, the possibility of promotion with good economic performance and connection is more than three times larger than those with bad economic performance and not connected.</p>
 </div>
-<div id="competing-risk-analysis---performance" class="section level2">
-<h2>Competing Risk Analysis - Performance</h2>
-<p><img src="poster_files/figure-html/competing_risk_economic-1.png" width="672" /></p>
+<div id="cox-ph-survival-possibility-of-promote" class="section level2">
+<h2>COX-PH Survival, Possibility of Promote</h2>
+<p><img src="poster_files/figure-html/survival_cox_ph-1.png" width="672" /></p>
+<!-- ## Competing Risk Analysis - Performance -->
 </div>
 </div>
 <div id="section-3" class="section level1 col-1">
 <h1></h1>
-<div id="competing-risk-analysis---connection-and-performance" class="section level2">
-<h2>Competing Risk Analysis - Connection and Performance</h2>
+<div id="competing-risk-analysis---possibility-of-multiple-events" class="section level2">
+<h2>Competing Risk Analysis - Possibility of Multiple Events</h2>
 <p><img src="poster_files/figure-html/competing_risk_connection_economic-1.png" width="672" /></p>
-</div>
-<div id="conclusions" class="section level2">
-<h2>Conclusions</h2>
-<p>Take a look around the project example for a tour of useful column classes, etc.</p>
 </div>
 </div>
 </div>
