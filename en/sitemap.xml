@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>http://www.leoyang.org/software/</loc>
+      <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://www.leoyang.org/software/rhcw/</loc>
       <lastmod>2018-06-29T00:00:00+00:00</lastmod>
     </url>
@@ -303,16 +312,6 @@
     <url>
     
       <loc>http://www.leoyang.org/tags/rhcw/</loc>
-      <lastmod>2018-06-29T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://www.leoyang.org/software/</loc>
       <lastmod>2018-06-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
