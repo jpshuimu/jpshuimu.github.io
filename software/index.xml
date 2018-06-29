@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Softwares on Leo YANG</title>
+    <link>http://www.leoyang.org/software/</link>
+    <description>Recent content in Softwares on Leo YANG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Leo YANG</copyright>
+    <lastBuildDate>Fri, 29 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/software/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>rhcw</title>
+      <link>http://www.leoyang.org/software/rhcw/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.leoyang.org/software/rhcw/</guid>
+      <description>&lt;p&gt;This package is used to do the program evaluation using the Panel Data Approach raised by Cheng Hsiao, H. Steve Ching, and Shui Ki Wan (2012), &amp;ldquo;A panel data approach for program evaluation: measuring the benefits of political and economic integration of Hong kong with mainland China&amp;rdquo;, Journal of Applied Econometrics.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

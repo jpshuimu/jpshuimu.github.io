@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>http://www.leoyang.org/software/rhcw/</loc>
+      <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://www.leoyang.org/publication/power_structure/</loc>
       <lastmod>2018-03-25T00:00:00+00:00</lastmod>
     </url>
@@ -285,6 +294,26 @@
     
       <loc>http://www.leoyang.org/publication_types/</loc>
       <lastmod>2017-03-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://www.leoyang.org/tags/rhcw/</loc>
+      <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://www.leoyang.org/software/</loc>
+      <lastmod>2018-06-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
