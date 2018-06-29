@@ -5,15 +5,6 @@
     
     <url>
     
-      <loc>http://www.leoyang.org/software/</loc>
-      <lastmod>2018-06-29T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>http://www.leoyang.org/software/rhcw/</loc>
       <lastmod>2018-06-29T00:00:00+00:00</lastmod>
     </url>
@@ -106,24 +97,6 @@
     
       <loc>http://www.leoyang.org/talk/caqe2016/</loc>
       <lastmod>2016-10-14T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://www.leoyang.org/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://www.leoyang.org/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -235,26 +208,6 @@
     
     <url>
     
-      <loc>http://www.leoyang.org/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://www.leoyang.org/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>http://www.leoyang.org/tags/hugo/</loc>
       <lastmod>2016-04-20T12:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -288,16 +241,6 @@
     
     <url>
     
-      <loc>http://www.leoyang.org/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="http://www.leoyang.org/publication_types/" hreflang="en"/>
       <xhtml:link rel="alternate" href="http://www.leoyang.org/zh/publication_types/" hreflang="zh"/>
     
@@ -312,6 +255,16 @@
     <url>
     
       <loc>http://www.leoyang.org/tags/rhcw/</loc>
+      <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://www.leoyang.org/software/</loc>
       <lastmod>2018-06-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
