@@ -1,48 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Invited Seminars &amp; Presentations In Conferences  on Leo YANG</title>
+    <title>Invited Seminars &amp; Presentations In Conferences  on Leo Y. YANG</title>
     <link>http://www.leoyang.org/talk/</link>
-    <description>Recent content in Invited Seminars &amp; Presentations In Conferences  on Leo YANG</description>
+    <description>Recent content in Invited Seminars &amp; Presentations In Conferences  on Leo Y. YANG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Leo YANG</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2018 Leo Y. YANG</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-    <item>
-      <title>The 2nd China Public Finance Forum</title>
-      <link>http://www.leoyang.org/talk/cpff2016/</link>
-      <pubDate>Sat, 10 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.leoyang.org/talk/cpff2016/</guid>
-      <description></description>
-    </item>
+	<atom:link href="http://www.leoyang.org/talk/index.xml" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>Annual Conference of Chinese Association of Quantitative Economics</title>
-      <link>http://www.leoyang.org/talk/caqe2016/</link>
-      <pubDate>Fri, 14 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.leoyang.org/talk/caqe2016/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>16th ZEW Summer Workshop for Young Economists</title>
       <link>http://www.leoyang.org/talk/zew2014/</link>
-      <pubDate>Mon, 30 Jun 2014 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
       
       <guid>http://www.leoyang.org/talk/zew2014/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>China Meeting of Econometric Society (CMES 2014)</title>
+      <title>Annual Conference of Chinese Association of Quantitative Economics</title>
+      <link>http://www.leoyang.org/talk/caqe2016/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>http://www.leoyang.org/talk/caqe2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>China Meeting of Econometric Society (CMES 2014)n</title>
       <link>http://www.leoyang.org/talk/cmes2014/</link>
-      <pubDate>Wed, 25 Jun 2014 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
       
       <guid>http://www.leoyang.org/talk/cmes2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 2nd China Public Finance Forum</title>
+      <link>http://www.leoyang.org/talk/cpff2016/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>http://www.leoyang.org/talk/cpff2016/</guid>
       <description></description>
     </item>
     

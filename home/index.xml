@@ -1,14 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Leo YANG</title>
+    <title>Homes on Leo Y. YANG</title>
     <link>http://www.leoyang.org/home/</link>
-    <description>Recent content in Homes on Leo YANG</description>
+    <description>Recent content in Homes on Leo Y. YANG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Leo YANG</copyright>
+    <copyright>&amp;copy; 2018 Leo Y. YANG</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://www.leoyang.org/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://www.leoyang.org/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.leoyang.org/home/about/</guid>
+      <description>Biography Leo Yang is a Ph.D. student in Political Science at University of California, San Diego(UCSD). He was trained as an economist in two different graduate programs (major in Finance and Social Science). His research interests include the social computation, the political economy, and the development economics. He is a research fellow of the Institute for Internet Law, Peking University, and the Comparative Studies.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>http://www.leoyang.org/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.leoyang.org/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working Paper</title>
+      <link>http://www.leoyang.org/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.leoyang.org/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>http://www.leoyang.org/home/software/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.leoyang.org/home/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited &amp; Upcoming Talks</title>
+      <link>http://www.leoyang.org/home/talks/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.leoyang.org/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.leoyang.org/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.leoyang.org/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
