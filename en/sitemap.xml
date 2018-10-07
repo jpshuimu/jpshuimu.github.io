@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>http://www.leoyang.org/publication/consumption_of_china/</loc>
+      <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://www.leoyang.org/publication/power_structure/</loc>
       <lastmod>2018-03-25T00:00:00+00:00</lastmod>
     </url>
@@ -50,6 +59,42 @@
     
     <url>
     
+      <loc>http://www.leoyang.org/talk/zew2014/</loc>
+      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://www.leoyang.org/talk/caqe2016/</loc>
+      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://www.leoyang.org/talk/cmes2014/</loc>
+      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://www.leoyang.org/talk/cpff2016/</loc>
+      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://www.leoyang.org/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -70,42 +115,6 @@
     
       <loc>http://www.leoyang.org/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://www.leoyang.org/talk/zew2014/</loc>
-      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://www.leoyang.org/talk/caqe2016/</loc>
-      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://www.leoyang.org/talk/cmes2014/</loc>
-      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://www.leoyang.org/talk/cpff2016/</loc>
-      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
     </url>
     
   
@@ -169,6 +178,16 @@
     
       <loc>http://www.leoyang.org/post/migrate-from-jekyll/</loc>
       <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://www.leoyang.org/publication_types/1/</loc>
+      <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -255,7 +274,7 @@
       <xhtml:link rel="alternate" href="http://www.leoyang.org/zh/publication_types/" hreflang="zh"/>
     
       <loc>http://www.leoyang.org/publication_types/</loc>
-      <lastmod>2017-03-27T00:00:00+00:00</lastmod>
+      <lastmod>2018-10-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
