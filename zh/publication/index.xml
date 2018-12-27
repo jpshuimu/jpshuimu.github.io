@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Leo Y. YANG on Leo Y. YANG</title>
-    <link>http://www.leoyang.org/zh/</link>
-    <description>Recent content in Leo Y. YANG on Leo Y. YANG</description>
+    <title>Publications on Leo Y. YANG</title>
+    <link>http://www.leoyang.org/zh/publication/</link>
+    <description>Recent content in Publications on Leo Y. YANG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>&amp;copy; 2018 Leo Y. YANG</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/zh/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.leoyang.org/zh/publication/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>二氧化硫排污费征收标准改革促进了减排吗</title>

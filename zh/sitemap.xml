@@ -5,6 +5,50 @@
     
     <url>
     
+      <loc>http://www.leoyang.org/zh/publication/pollution_reduction/</loc>
+      <lastmod>2018-11-18T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://www.leoyang.org/zh/publication/gender_identity/</loc>
+      <lastmod>2017-11-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://www.leoyang.org/zh/publication_types/2/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="http://www.leoyang.org/publication_types/2/" hreflang="en"/>
+    
+      <loc>http://www.leoyang.org/zh/publication_types/2/</loc>
+      <lastmod>2018-11-18T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://www.leoyang.org/zh/publication_types/3/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="http://www.leoyang.org/publication_types/3/" hreflang="en"/>
+    
+      <loc>http://www.leoyang.org/zh/publication_types/3/</loc>
+      <lastmod>2017-11-16T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="http://www.leoyang.org/zh/categories/" hreflang="zh"/>
       <xhtml:link rel="alternate" href="http://www.leoyang.org/categories/" hreflang="en"/>
     
@@ -34,6 +78,20 @@
       <xhtml:link rel="alternate" href="http://www.leoyang.org/publication_types/" hreflang="en"/>
     
       <loc>http://www.leoyang.org/zh/publication_types/</loc>
+      <lastmod>2018-11-18T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://www.leoyang.org/zh/publication/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="http://www.leoyang.org/publication/" hreflang="en"/>
+    
+      <loc>http://www.leoyang.org/zh/publication/</loc>
+      <lastmod>2018-11-18T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
