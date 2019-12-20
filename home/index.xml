@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Leo Y. YANG</copyright>
-    <lastBuildDate>Fri, 29 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.leoyang.org/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,16 +15,16 @@
     <item>
       <title></title>
       <link>http://www.leoyang.org/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>http://www.leoyang.org/home/about/</guid>
-      <description>Biography Leo Y. Yang is a Ph.D. student in Political Science at University of California, San Diego (UCSD). He was trained as an economist in two different graduate programs (major in Finance and Social Science). His research interests include the computational social science, the political economy, and the development economics.</description>
+      <description>Biography Leo Y. Yang is a Ph.D. student in Political Science at the University of California, San Diego (UCSD). He is also a Pre-Doctoral Fellow at Stanford University. His research interests include computational social science, political economy, and development economics. His work focus on how does the media (like newspaper and Weibo) influences economic, social, and political issues. He is self-trained as a data scientist who is capable of collecting, cleaning, and using big data to analyze the social phenomenon.</description>
     </item>
     
     <item>
       <title>Selected Publications</title>
       <link>http://www.leoyang.org/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>http://www.leoyang.org/home/publications_selected/</guid>
       <description></description>
