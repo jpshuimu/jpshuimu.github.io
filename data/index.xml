@@ -14,10 +14,10 @@
     
     <item>
       <title>Sina Weibo User Information</title>
-      <link>http://www.leoyang.org/data/sina_weibo_user.html</link>
+      <link>http://www.leoyang.org/data/sina_weibo_user/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.leoyang.org/data/sina_weibo_user.html</guid>
+      <guid>http://www.leoyang.org/data/sina_weibo_user/</guid>
       <description>Sina Weibo users’ profile data, scraped in 2017.</description>
     </item>
     
