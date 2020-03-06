@@ -6,7 +6,7 @@
     <description>Recent content in Invited Seminars &amp; Presentations In Conferences  on Leo Y. YANG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Leo Y. YANG</copyright>
+    <copyright>&amp;copy; 2020 Leo Y. YANG</copyright>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.leoyang.org/talk/index.xml" rel="self" type="application/rss+xml" />
@@ -31,6 +31,15 @@
     </item>
     
     <item>
+      <title>Innovative Uses of Data and Methods in the Study of China</title>
+      <link>http://www.leoyang.org/talk/dmsc2020/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 -0700</pubDate>
+      
+      <guid>http://www.leoyang.org/talk/dmsc2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Data Analytics Boot Camp</title>
       <link>http://www.leoyang.org/talk/cdlbc2019/</link>
       <pubDate>Wed, 11 Jan 2017 00:00:00 -0800</pubDate>
@@ -40,38 +49,11 @@
     </item>
     
     <item>
-      <title>16th ZEW Summer Workshop for Young Economists</title>
-      <link>http://www.leoyang.org/talk/zew2014/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
-      
-      <guid>http://www.leoyang.org/talk/zew2014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Annual Conference of Chinese Association of Quantitative Economics</title>
       <link>http://www.leoyang.org/talk/caqe2016/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
       
       <guid>http://www.leoyang.org/talk/caqe2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>China Meeting of Econometric Society (CMES 2014)</title>
-      <link>http://www.leoyang.org/talk/cmes2014/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
-      
-      <guid>http://www.leoyang.org/talk/cmes2014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The 2nd China Public Finance Forum</title>
-      <link>http://www.leoyang.org/talk/cpff2016/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
-      
-      <guid>http://www.leoyang.org/talk/cpff2016/</guid>
       <description></description>
     </item>
     
