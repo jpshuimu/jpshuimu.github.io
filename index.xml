@@ -6,13 +6,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020 Leo Y. YANG</copyright>
-    <lastBuildDate>Sun, 16 Feb 2020 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2020 00:00:00 +0800</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>SDSI Data Science Lab</title>
       <link>http://www.leoyang.org/talk/sdsi2020/</link>
-      <pubDate>Sun, 16 Feb 2020 00:00:00 -0800</pubDate>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0800</pubDate>
       
       <guid>http://www.leoyang.org/talk/sdsi2020/</guid>
       <description></description>
@@ -21,7 +21,7 @@
     <item>
       <title>2019 Asian Meeting of the Econometric Society</title>
       <link>http://www.leoyang.org/talk/ames2019/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 -0700</pubDate>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0800</pubDate>
       
       <guid>http://www.leoyang.org/talk/ames2019/</guid>
       <description></description>
@@ -30,7 +30,7 @@
     <item>
       <title>Innovative Uses of Data and Methods in the Study of China</title>
       <link>http://www.leoyang.org/talk/dmsc2020/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 -0700</pubDate>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0800</pubDate>
       
       <guid>http://www.leoyang.org/talk/dmsc2020/</guid>
       <description></description>
@@ -55,15 +55,6 @@
     </item>
     
     <item>
-      <title>Power Distribution and Factional Competition under Authoritarianism</title>
-      <link>http://www.leoyang.org/publication/media_factions/</link>
-      <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.leoyang.org/publication/media_factions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Uncrowned Kings with Shackles On: Negative Media Coverage and Accountability in China</title>
       <link>http://www.leoyang.org/publication/mining_disaster/</link>
       <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
@@ -75,7 +66,7 @@
     <item>
       <title>The Data Analytics Boot Camp</title>
       <link>http://www.leoyang.org/talk/cdlbc2019/</link>
-      <pubDate>Wed, 11 Jan 2017 00:00:00 -0800</pubDate>
+      <pubDate>Wed, 11 Jan 2017 00:00:00 +0800</pubDate>
       
       <guid>http://www.leoyang.org/talk/cdlbc2019/</guid>
       <description></description>
@@ -84,7 +75,7 @@
     <item>
       <title>Annual Conference of Chinese Association of Quantitative Economics</title>
       <link>http://www.leoyang.org/talk/caqe2016/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
       
       <guid>http://www.leoyang.org/talk/caqe2016/</guid>
       <description></description>
