@@ -4,6 +4,67 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="http://www.leoyang.org/zh/publication_types/3/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="http://www.leoyang.org/publication_types/3/" hreflang="en"/>
+    
+      <loc>http://www.leoyang.org/zh/publication_types/3/</loc>
+      <lastmod>2020-09-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://www.leoyang.org/zh/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="http://www.leoyang.org/" hreflang="en"/>
+    
+      <loc>http://www.leoyang.org/zh/</loc>
+      <lastmod>2020-09-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://www.leoyang.org/zh/publication_types/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="http://www.leoyang.org/publication_types/" hreflang="en"/>
+    
+      <loc>http://www.leoyang.org/zh/publication_types/</loc>
+      <lastmod>2020-09-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://www.leoyang.org/zh/publication/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="http://www.leoyang.org/publication/" hreflang="en"/>
+    
+      <loc>http://www.leoyang.org/zh/publication/</loc>
+      <lastmod>2020-09-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://www.leoyang.org/zh/publication/gender_identity/</loc>
+      <lastmod>2020-09-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="http://www.leoyang.org/zh/publication_types/2/" hreflang="zh"/>
       <xhtml:link rel="alternate" href="http://www.leoyang.org/publication_types/2/" hreflang="en"/>
     
@@ -17,69 +78,8 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="http://www.leoyang.org/zh/" hreflang="zh"/>
-      <xhtml:link rel="alternate" href="http://www.leoyang.org/" hreflang="en"/>
-    
-      <loc>http://www.leoyang.org/zh/</loc>
-      <lastmod>2019-01-29T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="http://www.leoyang.org/zh/publication_types/" hreflang="zh"/>
-      <xhtml:link rel="alternate" href="http://www.leoyang.org/publication_types/" hreflang="en"/>
-    
-      <loc>http://www.leoyang.org/zh/publication_types/</loc>
-      <lastmod>2019-01-29T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="http://www.leoyang.org/zh/publication/" hreflang="zh"/>
-      <xhtml:link rel="alternate" href="http://www.leoyang.org/publication/" hreflang="en"/>
-    
-      <loc>http://www.leoyang.org/zh/publication/</loc>
-      <lastmod>2019-01-29T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>http://www.leoyang.org/zh/publication/pollution_reduction/</loc>
       <lastmod>2019-01-29T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="http://www.leoyang.org/zh/publication_types/3/" hreflang="zh"/>
-      <xhtml:link rel="alternate" href="http://www.leoyang.org/publication_types/3/" hreflang="en"/>
-    
-      <loc>http://www.leoyang.org/zh/publication_types/3/</loc>
-      <lastmod>2017-11-16T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://www.leoyang.org/zh/publication/gender_identity/</loc>
-      <lastmod>2017-11-16T00:00:00+00:00</lastmod>
     </url>
     
   

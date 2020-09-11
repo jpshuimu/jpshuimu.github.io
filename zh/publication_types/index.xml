@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>&amp;copy; 2020 Leo Y. YANG</copyright>
-    <lastBuildDate>Tue, 29 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.leoyang.org/zh/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3</title>
+      <link>http://www.leoyang.org/zh/publication_types/3/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.leoyang.org/zh/publication_types/3/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>2</title>
@@ -18,15 +27,6 @@
       <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>http://www.leoyang.org/zh/publication_types/2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>3</title>
-      <link>http://www.leoyang.org/zh/publication_types/3/</link>
-      <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.leoyang.org/zh/publication_types/3/</guid>
       <description></description>
     </item>
     
